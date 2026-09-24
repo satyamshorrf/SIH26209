@@ -1,0 +1,20 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+numpy==2.2.1
+pandas==2.2.3
+scipy==1.15.1
+scikit-learn==1.6.1
+networkx==3.4.2
+matplotlib==3.10.0
+opencv-python-headless==4.11.0.86
+Pillow==11.1.0
+joblib==1.4.2
+pydantic==2.10.5
+# Optional heavy geoscience / deep-learning dependencies.
+# The backend runs fully without them (graceful fallbacks are built in),
+# but they enable richer raster + transformer based processing when installed.
+# torch
+# transformers
+# rasterio
+# pds4_tools
