@@ -1,6 +1,6 @@
 # Lunar AI Ice Detection System
 
-**Smart India Hackathon 2026 · Problem Statement 08**
+**Smart India Hackathon 2026 · Problem Statement **
 Detection and Characterization of Subsurface Ice in Lunar South Polar Regions
 using Chandrayaan-2 **DFSAR** and **OHRC** datasets — with safe-landing analysis
 and autonomous rover path planning.
